@@ -11,11 +11,16 @@ public class App
     public static void main( String[] args )
     {
         Scanner scan = new Scanner(System.in);
+        System.out.println("Ingrese 3 valores");
         byte a = scan.nextByte();
+        byte b = scan.nextByte();
+        byte c = scan.nextByte();
         // Complete this line
         // Complete this line
 
         System.out.println(a);
+        System.out.println(b);
+        System.out.println(c);
         // Complete this line
         // Complete this line
 
